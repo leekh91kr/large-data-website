@@ -1,17 +1,22 @@
-# STRONG AND BRAVE DOG, POODLE
+# Korea's Beautiful Island,  Dokdo
 
-The poodle is a group of formal dog breeds, the Standard Poodle, Miniature Poodle and Toy Poodle, with many coat colours. Originally bred in Germany as a type of water dog, the poodle is skillful in many dog sports, including agility, obedience, tracking, and even herding.
+Dokdo is the easternmost end of Korea's territories and is located 87.4km to the southeast of Ulleungdo of Korea and 157.5km to the northwest of Oki island of Japan. 
+
+The Dokdo독도/獨島, literally "solitary island", also known as Liancourt Rocks or Takeshima (たけしま/竹島?, literally "bamboo island") in Japanese, are a group of small islets in the Sea of Japan. Sovereignty over the islets is disputed between Japan and South Korea. South Korea classifies the islets as Dokdo-ri, Ulleung-eup, Ulleung County, North Gyeongsang Province. Japan classifies them as part of Okinoshima, Oki District, Shimane Prefecture.
+The Franco-English name of the islets derives from Le Liancourt, the name of a French whaling ship which came close to being wrecked on the rocks in 1849.
+The Liancourt Rocks consist of two main islets and 35 smaller rocks; the total surface area of the islets is 0.18745 square kilometres (46.32 acres), with the highest elevation of 169 metres (554 ft) found at an unnamed location on the west islet.
 
 ## Why you chose that topic and what excites you about it?
 
-I have two dog in my home in Korea. They are both poodle. The one's name is Dddoddo, and other one's name is Ddoddo's daughter Honey. I really love them. That is why I chose Poodle for this.
+The issue of Dokdo to Korean are very sensitive issue in Korea.
 
-## What's the purpose of this projuect? What do you want to learn?
+Dokdo, the easternmost island in East Sea, is an integral part of Korean territory historically, geographically, and under international law. No territorial dispute exists regarding Dokdo, and Dokdo is not a matter to be dealt with through diplomatic negotiations or judicial settlement.
 
-The purpose is this project is I have two dogs in my country Korea. They are poodle, but I really do not know about the details of poodle. I would like to learn detail information of poodle, and then I would like to take good care to my lovely dogs. 
+As I am Korean, I need to explain why Dokdo is Korean territory. That is why I chose this topic.
 
-What I want to learn is I want to know poodle's average life span of poodle, and poodle's main significant disease. I would like to get ready before they leave me..:(
+## What's the purpose of this project? What do you want to learn?
 
+The purpose is this project is as I am a Korean, I need to tell them this unfair situation. I would like to learn all information about Dokdo Island. I will continue to defend Korea's territorial soverelgnty over Dokdo.
 
 ## Author
 
@@ -27,32 +32,26 @@ Kyounghee Lauren Lee
 
 ## Content sources
 
-- <http://en.wikipedia.org/wiki/Poodle>
-- <http://ko.wikipedia.org/wiki/%ED%91%B8%EB%93%A4>
+- http://en.dokdo.go.kr/index.do
+- http://dokdo.mofa.go.kr/upload/korea.pdf
+- http://en.wikipedia.org/wiki/Liancourt_Rocks
 
-## Sample article
-
-?
-
-## Similar sites
-
-?
 
 ## To-do
 
 - [x] Research
-- [ ] Content organization
+- [x] Content organization
 - [ ] Tasks & priorities
-- [ ] Prototype
+- [x] Prototype
 - [ ] Style exploration
-- [ ] Writing exploration
+- [x] Writing exploration
 - [ ] Component guide
-- [ ] Homepage design
+- [x] Homepage design
 - [ ] Inside pages
 - [ ] Comments
-- [ ] Categories
-- [ ] Search results
-- [ ] Accessibility
+- [x] Categories
+- [x] Search results
+- [x] Accessibility
 - [ ] 404 page
 - [ ] SEO
 - [ ] Metadata
