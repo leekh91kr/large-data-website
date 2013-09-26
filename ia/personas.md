@@ -33,8 +33,8 @@ Youngju Bae is a fit old lady who loves to take care of her garden and plant bec
 
 ### What would help?
 
-- Having a website with fungi specifically related to poodle
-- Being able to print out the fungus information to read offline
+- Be able to get a research skills for Dokdo Island
+- She will get some informations for trip
 
 ---
 
