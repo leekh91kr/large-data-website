@@ -13,13 +13,12 @@
 html {
 	margin: 0;
 	padding: 0;
-
 	font: normal 100%/1.5 sans-serif;
 }
 
 body {
-	margin: 0auto;
-	padding: 0 10px;
+	margin: 0 auto;
+	padding: 5px 10px;
 }
 
 .clearfix:after,
@@ -40,7 +39,7 @@ h2 {
 
 p, {
 	margin: 2rem 0 1.5rem;
-	padding: 0;
+	padding: 0.3em;
 }
 
 ul,
@@ -110,17 +109,16 @@ body,div,dl,dt,dd,p {
 }
 
 .kakaoFaq {
-			width:800px;
+			
 			font-size:12px;
 			margin:0 auto;
 }
 
 .kakaoFaq dt {
-				color:#A93851;
-				height:37px;
+				color:#000;
 				margin-top:5px;
 				cursor:pointer;
-				line-height:37px;
+				line-height:15px;
 				background:#F6F6F6 url('../img/blt_faq.png') no-repeat;
 				padding-left:37px;
 }

@@ -21,11 +21,6 @@ document.querySelector('.nav-btn').addEventListener('click', function (e) {
   }
 });
 
-
-
-
-
-
 $(document).ready(function(){
 	$('.kakaoFaq>dt').click(function(){
 		$(this).addClass('opend');
@@ -37,4 +32,3 @@ $(document).ready(function(){
 		$(this).parent().prev().removeClass('opend');
 	})
 })
-
