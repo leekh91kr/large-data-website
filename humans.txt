@@ -1,0 +1,51 @@
+# http://humanstxt.org
+
+/* TEAM */
+
+                            
+Designer: Kyounghee Lauren Lee
+
+                            
+E-mail: leekh91kr@hotmail.com
+
+                            
+Twitter: @KyoungheeDesign
+
+                            
+Location: Ottawa, Canada.
+
+                         
+                 
+                        [...]
+						
+
+							
+/* THANKS */
+
+							
+Wikipedia: http://en.wikipedia.org/wiki/Liancourt_Rocks
+
+Korea Ministry of Foreign Affairs: http://dokdo.mofa.go.kr
+
+Thomas J Bradely: http://thomasjbradley.ca
+
+						
+                 
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2013/10/10 
+
+                            
+Standards: HTML5, CSS3, Java Script..
+
+                            
+Components: Modernizr, jQuery, etc.
+
+                            
+Software: Dreamweaver, Illustrator, Photoshop, Termianl.
+   
