@@ -108,7 +108,7 @@ body,div,dl,dt,dd,p {
 						margin:0;
 						padding:0;
 }
-/*
+
 .kakaoFaq {
 			width:800px;
 			font-size:12px;
@@ -121,12 +121,12 @@ body,div,dl,dt,dd,p {
 				margin-top:5px;
 				cursor:pointer;
 				line-height:37px;
-				background:#F6F6F6 url('blt_faq.png') no-repeat;
+				background:#F6F6F6 url('../img/blt_faq.png') no-repeat;
 				padding-left:37px;
 }
 
 .kakaoFaq dt.opend { 
-						background:#EB6200 url('blt_faq_on.png') no-repeat;
+						background:#EB6200 url('../img/blt_faq_on.png') no-repeat;
 						color:#fff;
 }
 
@@ -135,7 +135,7 @@ body,div,dl,dt,dd,p {
 				line-height:1.6em;
 				display:none;
 }
-*/
+
 @media only screen and (min-width: 45em) {
 
 	.lede {
