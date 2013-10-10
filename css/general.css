@@ -103,10 +103,6 @@ a:active {
 	white-space: nowrap;
 }
 
-body,div,dl,dt,dd,p { 
-						margin:0;
-						padding:0;
-}
 
 .kakaoFaq {
 			
@@ -280,6 +276,7 @@ body,div,dl,dt,dd,p {
 .moon-list li {
 	display: inline-block;
 	width: 48%;
+	vertical-align: top;
 }
 
 .moon-list figure {
