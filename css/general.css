@@ -114,7 +114,8 @@ a:active {
 				color:#000;
 				margin-top:5px;
 				cursor:pointer;
-				line-height:15px;
+				/*line-height:15px;*/
+				min-height: 3dxem;
 				background:#F6F6F6 url('../img/blt_faq.png') no-repeat;
 				padding-left:37px;
 }
