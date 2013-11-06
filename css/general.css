@@ -1,3 +1,5 @@
+
+
 @-moz-viewport { width: device-width; scale: 1; }
 @-ms-viewport { width: device-width; scale: 1; }
 @-o-viewport { width: device-width; scale: 1; }
@@ -8,6 +10,62 @@
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
+}
+
+.skiplinks {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 100%;
+	z-index: 3000;
+	
+	font-size: 1.25rem;
+	font-weight: bold;
+	list-style-type: none;
+}
+
+.skiplinks a,
+.skiplinks a:link,
+.skiplinks a:visited {
+	padding: 0.75em 1em;
+	position: absolute;
+	top: -10em;
+	
+	background-color: #000;
+	
+	color: #fff;
+	text-decoration: none;
+}
+
+.skiplinks a:focus {
+	top: 0;
+}
+
+
+a,
+a:link,
+a:visited {
+	/*
+	Change your color, etc.
+	The underline is also an extremely important accessibility feature
+	You should have an underline;
+		but you can use a border if you want more control
+	*/
+}
+
+a:hover,
+a:active {
+	/*
+	It's OK to remove the outline on hover/active
+	becasue they are mouse-based interactions
+	*/
+	outline: none;
+}
+
+a:focus {
+	/*You must ALWAYS have outline on the focus state
+	*/
+	outline: 3px solid #000;
 }
 
 html {

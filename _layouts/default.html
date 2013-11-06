@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang=en-ca>
 <head>
+
+
 	<meta charset=utf-8>
 	<title>{{page.title}}</title>
 	<link href="css/general.css" rel="stylesheet">
@@ -26,13 +28,20 @@
 	<meta property="twitter:description" content="This is website for save Dokdo Island from dispute exists regarding Dokdo">
     
 </head>
+
 <body id="top">
-	<header class="masthead clearfix">
+
+<ul class="skiplinks">
+	<li><a href="#main">Skip to primary content</a></li>
+	<li><a href="#navigation">Skip to navigations</a></li>
+</ul>
+
+	<header role="banner" class="masthead clearfix">
 		<div class="masthead-top">
 			<h1 class="logo-wrapper"><a href="index.html" rel="home" class="logo">Dokdo Logo</a></h1>
 			<a href="#nav" class="nav-btn" data-state="inactive">Navigate</a>
 		</div>
-		<nav class="nav nav-top" data-state="collapsed">
+		<nav role="navigation" id="navigation" class="nav nav-top" data-state="collapsed">
 			<ul>
 				<li><a href="about.html">About Dokdo</a></li>
 				<li><a href="dokdofanda.html">Dokdo F&amp;A </a></li>
@@ -42,9 +51,11 @@
 		</nav>
 	</header>
     
+    <main role="main" id="main">
     {{content}}
+    </main>
     
-    	<footer class="site-footer">
+    	<footer role="contentinfo" class="site-footer">
 		<nav id="nav" class="nav nav-bottom">
 			<ul>
 				<li><a href="about.html">About Dokdo</a></li>
