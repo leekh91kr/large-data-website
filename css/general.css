@@ -7,13 +7,18 @@
 @viewport { width: device-width; scale: 1; }
 
 h3 {
-	font-size: 5em;
 	color: #FFFFFF;
 	padding-left: 2em;
 	padding-top: 2em;
 	padding-bottom: 2em;
 	font-family: helvetica;
 }
+
+.fleximg {
+	display: block;
+	width: 100%;
+}
+
 
 * {
 	-moz-box-sizing: border-box;
