@@ -11,7 +11,6 @@ h3 {
 	padding-left: 2em;
 	padding-top: 2em;
 	padding-bottom: 2em;
-	font-family: helvetica;
 }
 
 .fleximg {
@@ -85,7 +84,7 @@ a:focus {
 html {
 	margin: 0;
 	padding: 0;
-	font: normal 100%/1.5 sans-serif;
+	font: normal 100%/1.5 Verdana,sans-serif;
 }
 
 body {
@@ -109,7 +108,7 @@ h2 {
 	font-weight: normal;
 }
 
-p, {
+p {
 	margin: 2rem 0 1.5rem;
 	padding: 0.3em;
 }
