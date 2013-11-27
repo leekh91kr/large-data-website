@@ -184,6 +184,12 @@ a:active {
 	white-space: nowrap;
 }
 
+.no-inlinesvg .logo,
+.no-inlinesvg .logo:link,
+.no-inlinesvg .logo:visited {
+	background-image: url("../img/logo.png")
+}
+	
 
 .kakaoFaq {
 			
@@ -235,6 +241,12 @@ a:active {
 
 	text-indent: 100%;
 	white-space: nowrap;
+}
+
+.no-inlinesvg .nav-btn,
+.no-inlinesvg .nav-btn:link,
+.no-inlinesvg .nav-btn:visited {
+	background-image: url("../img/icon-nav.png")
 }
 
 .nav-btn:hover,
